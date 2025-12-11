@@ -4,7 +4,7 @@ A pixel-perfect implementation of a quiz interface based on the provided Figma d
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://typescript-react-pal.vercel.app/)
+[View Live Demo](https://typescript-react-pal-wyx4.vercel.app/)
 
 ## 🛠️ Tech Stack
 
