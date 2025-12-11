@@ -4,7 +4,7 @@ A pixel-perfect implementation of a quiz interface based on the provided Figma d
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID)
+[View Live Demo](https://typescript-react-pal.vercel.app/)
 
 ## 🛠️ Tech Stack
 
@@ -87,10 +87,10 @@ src/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/Fredrick2216/Frontend-Assessment-Wedding-Company->
 
 # Navigate to project directory
-cd <project-name>
+cd <Frontend Assessment>
 
 # Install dependencies
 npm install
@@ -138,6 +138,4 @@ npm run build
 - Safari (latest)
 - Edge (latest)
 
----
 
-Built with ❤️ using [Lovable](https://lovable.dev)
